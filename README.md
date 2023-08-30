@@ -33,9 +33,3 @@ Note: Related materials will be provided by supervisor
 
 Supervisor: 
 Name:  Dr.  Mushtaq Hussain 
-Email ID: Mushtaq.hussain@vu.edu.pk 
-Skype ID: themushtaq48
-
-
-Link of Dataset:
-Synthetic Financial Datasets for Fraud Detection (https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download )
